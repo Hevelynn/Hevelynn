@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hevelynn&label=Profile%20views&color=0e75b6&style=flat" alt="hevelynn" /> </p>
 
-- 🌱 I’m currently learning **C# e Angular**
+- 🌱 I’m currently learning **C# and Angular**
 
 - 📫 How to reach me **hevelynnthais@gmail.com**
 
